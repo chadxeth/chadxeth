@@ -1,6 +1,12 @@
 # Jun Meng - Blockchain Engineer
 
-![](photo_2023-02-08_10-58-53.jpg)
+<div style="display: flex; justify-content: center; width: 100%;">
+  <div style="width: 200px; height: 200px;">
+    <img src="photo_2023-02-08_10-58-53.jpg" alt="image" style="max-width: 100%; max-height: 100%; object-fit: contain; width: 100%; height: 100%;"/>
+  </div>
+</div>
+
+
 
 Hi there! I am a blockchain engineer with a passion for decentralized technologies and their potential to change the world.
 
@@ -35,6 +41,19 @@ There are existing solutions out there to do exactly this, such as the Brave bro
 https://github.com/Omegachads
 
 https://ethglobal.com/showcase/preshmail-rnuzb
+
+### BluebirdSwap - On-chain Fractionalised NFT Options Trading  (ETHDenver #BUIDLathon 2023)
+### 🏆 The Graph — Best New Subgraph(s)
+![BluebirdSwap](Logo.png)
+NFTs (Non-Fungible Tokens) have become increasingly popular in recent years as a way to represent unique digital assets such as artwork, music, and video game items. However, high-value NFTs can be expensive and illiquid, making it difficult for smaller investors to gain exposure to the market.
+
+With BluebirdSwap, users can buy and sell fractional ownership of NFTs, which makes it possible for smaller investors to participate in the market. This allows users to buy a share of a valuable NFT without having to pay the entire price upfront. Fractional ownership also allows investors to diversify their portfolios by owning a stake in multiple NFTs. BluebirdSwap provides a new way to speculate on the value of these assets. This is not possible on OpenSea or other NFT marketplaces, which only support direct trading of NFTs.
+
+In addition to fractionalized NFTs, BluebirdSwap also offers an options trading platform for NFTs. Users can buy calls or puts on fractionalized NFTs, which allows them to potentially profit from price movements without having to buy the entire asset. This provides flexibility and risk management for investors who may not want to take on the full risk of owning an entire NFT. The premium for the options contracts is paid in the specific fractionalized NFT tokens.
+
+https://github.com/Web3Rizzards
+
+https://app.buidlbox.io/projects/bluebirdswap
 
 ## Contact
 
