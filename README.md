@@ -55,6 +55,26 @@ https://github.com/Web3Rizzards
 
 https://app.buidlbox.io/projects/bluebirdswap
 
+### Multinate - Cross-Chain Donation Aggregator  (ETHGlobal ScalingEthereum 2023)
+### 🏆 Hyperlane — Best use of Hyperlane Warp Routes 🏆 UMA & Across — Pool Prize
+![photo_2023-03-26_18-00-29 (2)](https://user-images.githubusercontent.com/110725797/229329124-49dcddff-8c19-4232-bdd5-e58bb618bc75.jpg)
+
+Multinate is a cross-chain donation aggregator designed to streamline charitable fundraising by enabling donors from multiple blockchain ecosystems to contribute in the ERC-20 token of their choice. Our platform simplifies the donation process, enhances transparency, and empowers charities to withdraw the raised funds in USDC, facilitating the efficient allocation of resources.
+
+Key Features:
+
+Snapshot.org Integration: Multinate utilizes Snapshot.org to initiate fundraising campaigns, providing a preliminary assessment of a charity's legitimacy. Charities submit proposals on our dedicated Multinate space, and these proposals must garner more votes in favor than against to pass.
+
+Gnosis Safe Account and Optimism's AttestationStation: Once the proposal is approved, the platform automatically creates a campaign through a Gnosis Safe account. At this stage, our system connects to Optimism's AttestationStation contract to ensure that the charity meets the minimum attestation score, which is based on four attested criteria from a trusted third party.
+
+Multi-Chain Support: Multinate supports donations from various blockchain ecosystems, including Scroll Alpha, Optimism Mainnet, and Gnosis Mainnet. This broad compatibility enables donors to contribute using their preferred blockchain and token, making it easier than ever to support charitable causes.
+
+USDC Withdrawals: Charities can efficiently access the funds raised through our platform by withdrawing them in USDC, ensuring a seamless and straightforward process from campaign initiation to fund allocation.
+
+https://github.com/Multinate/web3-donation-aggregator
+
+https://ethglobal.com/showcase/multinate-kgqay
+
 ## Contact
 
 Feel free to reach out to me through [junmtan.eth@gmail.com](mailto:junmtan.eth@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tanjunmeng/).
