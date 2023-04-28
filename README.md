@@ -1,14 +1,13 @@
-# Jun Meng - Blockchain Engineer
+<h1 align="center">Jun Meng (chadxeth)</h1>
 
-<div style="display: flex; justify-content: center; width: 100%;">
-  <div style="width: 200px; height: 200px;">
-    <img src="photo_2023-02-08_10-58-53.jpg" alt="image" style="max-width: 100%; max-height: 100%; object-fit: contain; width: 100%; height: 100%;"/>
-  </div>
-</div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110725797/235067821-ebf9e354-f987-4710-a6ee-96109eada17e.jpg" alt="Avatar" style="border-radius:30%">
+</p>
 
 
 Hi there! I am a blockchain engineer with a passion for decentralized technologies and their potential to change the world.
+
 
 ## Skills
 - Strong knowledge of blockchain technologies such as Ethereum, Bitcoin, and Hyperledger
@@ -17,47 +16,34 @@ Hi there! I am a blockchain engineer with a passion for decentralized technologi
 - Familiarity with Web3 technologies such as Dapps, IPFS, and decentralized exchanges
 - Ability to integrate blockchain solutions with existing systems and platforms
 
-## Projects
+## GitHub
+[![junmtan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=junmtan&theme=merko)](https://github.com/junmtan/github-readme-activity-graph)
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junmtan&show_icons=true&theme=merko" />
+</a>
 
-### GAAVE - Charity Yield Farming (ETH Seoul 2022)
-### 🥇 Public Goods Track Winner 🏆 IPFS/Filecoin Sponsor Prize 🏆 The Graph Sponsor Prize
-![GAAVE](gaave-screenshot.png)
-GAAVE is a yield farming for charity platform built by team GigaChads at ETH Seoul 2022.
 
-A platform where crypto users could deposit their cryptocurrencies to generate yield for a cause. To further drive engagement, soulbound NFTs would be available for claim whenever a user reaches certain milestone when generating yield for a cause.
+## 2023 Projects
 
-https://github.com/GigaChadds
+### ZKredentials - Decentralized, Trustless Anonymous Verification Powered by ZK-SNARKS  (ETHGlobal Tokyo 2023)
+### 🥇 Gnosis Chain — Best Use 🏆 Push — Most Innovative 🧑‍⚖️ Worldcoin — Best Governance App 🥷 Taiko — 🥈 ZK Zone 🏊‍♂️ Polygon — Pool Prize 🏊 The Graph — Pool Prize 📜 Scroll — Just Deploy
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110725797/235075170-27eca209-b400-471a-94d3-0b51f7e796e5.png" alt="ZKredentials" width="400"/>
+</p>
 
-### PreshMail - Decentralized Chat App with Attention Monetization (ETH SanFrancisco 2022)
-### 🏆 Lens Protocol — Integration 🏆 XMTP — Runner Up 🏆 Push Protocol — Runner Up
-![PreshMail](preshmail.jpg)
+ZKredentials is a decentralized resume verification platform designed to empower anonymous developers by leveraging zero-knowledge proofs (zk-SNARKs), Ethereum blockchain, and the InterPlanetary File System (IPFS). The platform aims to revolutionize talent discovery and validation for job hunters, while preserving privacy and ensuring security for job seekers.
 
-Modern day social media is plagued with ads and people sending unsolicited messages to strangers due to the ease of doing so via bots and automation. We feel that it is unfair that you have to waste your precious attention on spam and unwanted messages.
+An increasing number of individuals are seeking anonymity in their interactions, and this extends to their professional lives as well. This growing demand for privacy in the job market, coupled with the rapid expansion of the crypto industry, highlights the necessity for a platform like ZKredentials.
 
-Ad services such as Google Ad sense helps you to monetize your attention to a certain degree, but what if we could democratize this whole process?
+ZKredentials addresses this essential need by providing a secure and privacy-preserving solution for job seekers, allowing them to showcase their skills and credentials without compromising their anonymity. By employing advanced technologies like zk-SNARKs, Ethereum, and IPFS, ZKredentials allows users to generate resumes and verify their qualifications without revealing sensitive personal information.
 
-There are existing solutions out there to do exactly this, such as the Brave browser, but there has not been one in the area of text messaging.
-
-https://github.com/Omegachads
-
-https://ethglobal.com/showcase/preshmail-rnuzb
-
-### BluebirdSwap - On-chain Fractionalised NFT Options Trading  (ETHDenver #BUIDLathon 2023)
-### 🏆 The Graph — Best New Subgraph(s)
-![BluebirdSwap](Logo.png)
-NFTs (Non-Fungible Tokens) have become increasingly popular in recent years as a way to represent unique digital assets such as artwork, music, and video game items. However, high-value NFTs can be expensive and illiquid, making it difficult for smaller investors to gain exposure to the market.
-
-With BluebirdSwap, users can buy and sell fractional ownership of NFTs, which makes it possible for smaller investors to participate in the market. This allows users to buy a share of a valuable NFT without having to pay the entire price upfront. Fractional ownership also allows investors to diversify their portfolios by owning a stake in multiple NFTs. BluebirdSwap provides a new way to speculate on the value of these assets. This is not possible on OpenSea or other NFT marketplaces, which only support direct trading of NFTs.
-
-In addition to fractionalized NFTs, BluebirdSwap also offers an options trading platform for NFTs. Users can buy calls or puts on fractionalized NFTs, which allows them to potentially profit from price movements without having to buy the entire asset. This provides flexibility and risk management for investors who may not want to take on the full risk of owning an entire NFT. The premium for the options contracts is paid in the specific fractionalized NFT tokens.
-
-https://github.com/Web3Rizzards
-
-https://app.buidlbox.io/projects/bluebirdswap
+https://ethglobal.com/showcase/zkredentials-costv
 
 ### Multinate - Cross-Chain Donation Aggregator  (ETHGlobal ScalingEthereum 2023)
 ### 🏆 Hyperlane — Best use of Hyperlane Warp Routes 🏆 UMA & Across — Pool Prize
-![photo_2023-03-26_18-00-29 (2)](https://user-images.githubusercontent.com/110725797/229329124-49dcddff-8c19-4232-bdd5-e58bb618bc75.jpg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/110725797/229329124-49dcddff-8c19-4232-bdd5-e58bb618bc75.jpg" alt="Multinate" width="400"/>
+</p>
 
 Multinate is a cross-chain donation aggregator designed to streamline charitable fundraising by enabling donors from multiple blockchain ecosystems to contribute in the ERC-20 token of their choice. Our platform simplifies the donation process, enhances transparency, and empowers charities to withdraw the raised funds in USDC, facilitating the efficient allocation of resources.
 
@@ -74,6 +60,54 @@ USDC Withdrawals: Charities can efficiently access the funds raised through our 
 https://github.com/Multinate/web3-donation-aggregator
 
 https://ethglobal.com/showcase/multinate-kgqay
+
+
+### BluebirdSwap - On-chain Fractionalised NFT Options Trading  (ETHDenver #BUIDLathon 2023)
+### 🏆 The Graph — Best New Subgraph(s)
+<p align="center">
+  <img src="Logo.png" alt="BluebirdSwap" width="400"/>
+</p>
+NFTs (Non-Fungible Tokens) have become increasingly popular in recent years as a way to represent unique digital assets such as artwork, music, and video game items. However, high-value NFTs can be expensive and illiquid, making it difficult for smaller investors to gain exposure to the market.
+
+With BluebirdSwap, users can buy and sell fractional ownership of NFTs, which makes it possible for smaller investors to participate in the market. This allows users to buy a share of a valuable NFT without having to pay the entire price upfront. Fractional ownership also allows investors to diversify their portfolios by owning a stake in multiple NFTs. BluebirdSwap provides a new way to speculate on the value of these assets. This is not possible on OpenSea or other NFT marketplaces, which only support direct trading of NFTs.
+
+In addition to fractionalized NFTs, BluebirdSwap also offers an options trading platform for NFTs. Users can buy calls or puts on fractionalized NFTs, which allows them to potentially profit from price movements without having to buy the entire asset. This provides flexibility and risk management for investors who may not want to take on the full risk of owning an entire NFT. The premium for the options contracts is paid in the specific fractionalized NFT tokens.
+
+https://github.com/Web3Rizzards
+
+https://app.buidlbox.io/projects/bluebirdswap
+
+## 2022 Projects
+
+### GAAVE - Charity Yield Farming (ETH Seoul 2022)
+### 🥇 Public Goods Track Winner 🏆 IPFS/Filecoin Sponsor Prize 🏆 The Graph Sponsor Prize
+<p align="center">
+  <img src="gaave-screenshot.png" alt="GAAVE" width="800"/>
+</p>
+
+GAAVE is a yield farming for charity platform built by team GigaChads at ETH Seoul 2022.
+
+A platform where crypto users could deposit their cryptocurrencies to generate yield for a cause. To further drive engagement, soulbound NFTs would be available for claim whenever a user reaches certain milestone when generating yield for a cause.
+
+https://github.com/GigaChadds
+
+### PreshMail - Decentralized Chat App with Attention Monetization (ETHGlobal SanFrancisco 2022)
+### 🏆 Lens Protocol — Integration 🏆 XMTP — Runner Up 🏆 Push Protocol — Runner Up
+
+<p align="center">
+  <img src="preshmail.jpg" alt="Preshmail" width="400"/>
+</p>
+
+Modern day social media is plagued with ads and people sending unsolicited messages to strangers due to the ease of doing so via bots and automation. We feel that it is unfair that you have to waste your precious attention on spam and unwanted messages.
+
+Ad services such as Google Ad sense helps you to monetize your attention to a certain degree, but what if we could democratize this whole process?
+
+There are existing solutions out there to do exactly this, such as the Brave browser, but there has not been one in the area of text messaging.
+
+https://github.com/Omegachads
+
+https://ethglobal.com/showcase/preshmail-rnuzb
+
 
 ## Contact
 
