@@ -1,4 +1,4 @@
-<h1 align="center">Jun Meng (chadxeth)</h1>
+<h1 align="center">chadxeth</h1>
 
 
 <p align="center">
@@ -17,9 +17,9 @@ Hi there! I am a blockchain engineer with a passion for decentralized technologi
 - Ability to integrate blockchain solutions with existing systems and platforms
 
 ## GitHub
-[![junmtan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=junmtan&theme=merko)](https://github.com/junmtan/github-readme-activity-graph)
+[![junmtan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chadxeth&theme=merko)](https://github.com/chadxeth/github-readme-activity-graph)
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=junmtan&show_icons=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chadxeth&show_icons=true&theme=merko" />
 </a>
 
 
