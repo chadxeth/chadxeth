@@ -1,9 +1,9 @@
 <h1 align="center">chadxeth</h1>
 
-
+<!-- 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110725797/235067821-ebf9e354-f987-4710-a6ee-96109eada17e.jpg" alt="Avatar" style="border-radius:30%">
-</p>
+</p> -->
 
 
 Hi there! I am a blockchain engineer with a passion for decentralized technologies and their potential to change the world.
@@ -16,11 +16,30 @@ Hi there! I am a blockchain engineer with a passion for decentralized technologi
 - Familiarity with Web3 technologies such as Dapps, IPFS, and decentralized exchanges
 - Ability to integrate blockchain solutions with existing systems and platforms
 
-## GitHub
-[![junmtan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chadxeth&theme=merko)](https://github.com/chadxeth/github-readme-activity-graph)
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chadxeth&show_icons=true&theme=merko" />
-</a>
+## Coding Statistics
+<div style="display: flex;">
+  <figure style="flex: 1; margin-right: 10px;">
+    <img src="https://wakatime.com/share/@77a6a8ac-62db-4fe1-953e-e9dec5e4f88a/8985beb6-f7a0-483b-ae97-7ce441e0c65d.svg" alt="SVG Image" width="500" height="auto">
+  </figure>
+  <figure style="flex: 1;">
+    <img src="https://wakatime.com/share/@77a6a8ac-62db-4fe1-953e-e9dec5e4f88a/5b6fd148-e5ea-49e9-953e-7e6ac9db624e.svg" alt="SVG Image" width="500" height="auto">
+  </figure>
+</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=chadxeth&show_icons=true&theme=merko" alt="GitHub Stats" style="max-width: 100%;">
+    </td>
+    <td align="center">
+      <a href="https://github.com/chadxeth/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chadxeth&theme=merko" alt="GitHub Activity Graph" style="max-width: 100%; height: auto;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 ## 2023 Projects
