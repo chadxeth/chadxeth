@@ -31,11 +31,6 @@ Hi there! I am a blockchain engineer with a passion for decentralized technologi
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=chadxeth&show_icons=true&theme=merko" alt="GitHub Stats" style="max-width: 100%;">
     </td>
-    <td align="center">
-      <a href="https://github.com/chadxeth/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chadxeth&theme=merko" alt="GitHub Activity Graph" style="max-width: 100%; height: auto;">
-      </a>
-    </td>
   </tr>
 </table>
 
