@@ -26,21 +26,15 @@ Hi there! I am a blockchain engineer with a passion for decentralized technologi
   </figure>
 </div>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=chadxeth&show_icons=true&theme=merko" alt="GitHub Stats" style="max-width: 100%;">
-    </td>
-  </tr>
-</table>
-
-
 
 
 ## 2023 Projects
 
 ### ZKredentials - Decentralized, Trustless Anonymous Verification Powered by ZK-SNARKS  (ETHGlobal Tokyo 2023)
 ### 🥇 Gnosis Chain — Best Use 🏆 Push — Most Innovative 🧑‍⚖️ Worldcoin — Best Governance App 🥷 Taiko — 🥈 ZK Zone 🏊‍♂️ Polygon — Pool Prize 🏊 The Graph — Pool Prize 📜 Scroll — Just Deploy
+### Additional Awards
+### DevX APAC Hackathon by Polygon Labs
+### 🏆 DevX APAC Hackathon by Polygon Labs - Problem Statement Track Winner 🏆 The Hunt for X by ScalingX - Finalist
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110725797/235075170-27eca209-b400-471a-94d3-0b51f7e796e5.png" alt="ZKredentials" width="400"/>
 </p>
