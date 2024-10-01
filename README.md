@@ -27,7 +27,16 @@ Hi there! I am a blockchain engineer with a passion for decentralized technologi
 </div>
 
 
+## 2024 Projects
+### Trend - Decentralized Social Layer for Fitness  (ETHGlobal Singapore 2024)
+### 🥇 Sign Protocol — Best Overall Application 🏆 Sign Protocol - Most Creative Schema 🧑‍⚖️ Worldcoin — Pool Prize
+<p align="center">
+  <img src="trend.jpg" alt="Trend" width="400"/>
+</p>
 
+Trend introduces a decentralized social layer for fitness apps, allowing users to verify their workout achievements through on-chain attestations. Powered by Sign Protocol, users can create verifiable proof of completed workouts, such as running or cycling with their peers. By recording these activities on-chain, Trend enables composability with other decentralized systems, like reputation protocols, allowing users to build a verified fitness track record that transcends individual platforms. This decentralized approach adds trust and flexibility to fitness data, enabling a richer social experience for users while maintaining privacy and control over their information.
+
+https://ethglobal.com/showcase/trend-p3r89
 ## 2023 Projects
 
 ### ZKredentials - Decentralized, Trustless Anonymous Verification Powered by ZK-SNARKS  (ETHGlobal Tokyo 2023)
