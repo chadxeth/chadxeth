@@ -10,11 +10,11 @@ Hi there! I am a blockchain engineer with a passion for decentralized technologi
 
 
 ## Skills
-- Strong knowledge of blockchain technologies such as Ethereum, Bitcoin, and Hyperledger
-- Experience with smart contract development using Solidity and other programming languages
+- Experience with smart contract development using Solidity, Typescript, Hardhat/Foundry, Golang
 - Understanding of consensus algorithms, cryptography, and network security
-- Familiarity with Web3 technologies such as Dapps, IPFS, and decentralized exchanges
+- Familiarity with Web3 primitives
 - Ability to integrate blockchain solutions with existing systems and platforms
+- Web3 native + web3 corporate experience
 
 ## Coding Statistics
 <div style="display: flex;">
@@ -28,6 +28,7 @@ Hi there! I am a blockchain engineer with a passion for decentralized technologi
 
 
 ## 2024 Projects
+
 ### Trend - Decentralized Social Layer for Fitness  (ETHGlobal Singapore 2024)
 ### 🥇 Sign Protocol — Best Overall Application 🏆 Sign Protocol - Most Creative Schema 🧑‍⚖️ Worldcoin — Pool Prize
 <p align="center">
@@ -36,7 +37,15 @@ Hi there! I am a blockchain engineer with a passion for decentralized technologi
 
 Trend introduces a decentralized social layer for fitness apps, allowing users to verify their workout achievements through on-chain attestations. Powered by Sign Protocol, users can create verifiable proof of completed workouts, such as running or cycling with their peers. By recording these activities on-chain, Trend enables composability with other decentralized systems, like reputation protocols, allowing users to build a verified fitness track record that transcends individual platforms. This decentralized approach adds trust and flexibility to fitness data, enabling a richer social experience for users while maintaining privacy and control over their information.
 
-https://ethglobal.com/showcase/trend-p3r89
+[Project Link](https://ethglobal.com/showcase/trend-p3r89)
+
+### AirdropX - Modular Token Distribution Network  (ETHGlobal Bangkok 2024)
+### 🧑‍⚖️ Worldcoin — Pool Prize
+
+AirdropX is a flexible and secure framework for creating customizable token distribution campaigns with pluggable eligibility criteria. Built with security and modularity in mind, it leverages the Venn Protocol for transaction firewall protection.
+
+[Project Link](https://ethglobal.com/showcase/airdropx-wk04h)
+
 ## 2023 Projects
 
 ### ZKredentials - Decentralized, Trustless Anonymous Verification Powered by ZK-SNARKS  (ETHGlobal Tokyo 2023)
@@ -53,7 +62,7 @@ An increasing number of individuals are seeking anonymity in their interactions,
 
 ZKredentials addresses this essential need by providing a secure and privacy-preserving solution for job seekers, allowing them to showcase their skills and credentials without compromising their anonymity. By employing advanced technologies like zk-SNARKs, Ethereum, and IPFS, ZKredentials allows users to generate resumes and verify their qualifications without revealing sensitive personal information.
 
-https://ethglobal.com/showcase/zkredentials-costv
+[Project Link](https://ethglobal.com/showcase/zkredentials-costv)
 
 ### Multinate - Cross-Chain Donation Aggregator  (ETHGlobal ScalingEthereum 2023)
 ### 🏆 Hyperlane — Best use of Hyperlane Warp Routes 🏆 UMA & Across — Pool Prize
@@ -73,10 +82,7 @@ Multi-Chain Support: Multinate supports donations from various blockchain ecosys
 
 USDC Withdrawals: Charities can efficiently access the funds raised through our platform by withdrawing them in USDC, ensuring a seamless and straightforward process from campaign initiation to fund allocation.
 
-https://github.com/Multinate/web3-donation-aggregator
-
-https://ethglobal.com/showcase/multinate-kgqay
-
+[Project Link](https://ethglobal.com/showcase/multinate-kgqay)
 
 ### BluebirdSwap - On-chain Fractionalised NFT Options Trading  (ETHDenver #BUIDLathon 2023)
 ### 🏆 The Graph — Best New Subgraph(s)
@@ -89,9 +95,15 @@ With BluebirdSwap, users can buy and sell fractional ownership of NFTs, which ma
 
 In addition to fractionalized NFTs, BluebirdSwap also offers an options trading platform for NFTs. Users can buy calls or puts on fractionalized NFTs, which allows them to potentially profit from price movements without having to buy the entire asset. This provides flexibility and risk management for investors who may not want to take on the full risk of owning an entire NFT. The premium for the options contracts is paid in the specific fractionalized NFT tokens.
 
-https://github.com/Web3Rizzards
+[Project Link](https://app.buidlbox.io/projects/bluebirdswap)
 
-https://app.buidlbox.io/projects/bluebirdswap
+### Autopass3 - Autopass powered by Web3 (ETHTaipei Hackathon 2023)
+![image](https://github.com/user-attachments/assets/4bbca167-ffdb-4642-8efb-bee030dcc969)
+Autopass3 enables web3 payments for Autopass using Gnosis. Drivers can now easily pay for parking, gas, and other automobile services using stable cryptocurrencies such as XDAI on Autopass.
+
+[Project Link](https://taikai.network/ethtaipei/hackathons/hackathon/projects/clgr9v2df122199401019dy019eh/idea)
+[Autopass Website](https://en.autopass.xyz/)
+
 
 ## 2022 Projects
 
