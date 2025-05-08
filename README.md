@@ -30,7 +30,9 @@ Hi there! I am a blockchain engineer with a passion for decentralized technologi
 ## 2024 Projects
 
 ### Trend - Decentralized Social Layer for Fitness  (ETHGlobal Singapore 2024)
-### 🥇 Sign Protocol — Best Overall Application 🏆 Sign Protocol - Most Creative Schema 🧑‍⚖️ Worldcoin — Pool Prize
+#### 🥇 Sign Protocol — Best Overall Application 
+#### 🏆 Sign Protocol - Most Creative Schema 
+#### 🧑‍⚖️ Worldcoin — Pool Prize
 <p align="center">
   <img src="trend.jpg" alt="Trend" width="400"/>
 </p>
@@ -40,7 +42,7 @@ Trend introduces a decentralized social layer for fitness apps, allowing users t
 [Project Link](https://ethglobal.com/showcase/trend-p3r89)
 
 ### AirdropX - Modular Token Distribution Network  (ETHGlobal Bangkok 2024)
-### 🧑‍⚖️ Worldcoin — Pool Prize
+#### 🧑‍⚖️ Worldcoin — Pool Prize
 
 AirdropX is a flexible and secure framework for creating customizable token distribution campaigns with pluggable eligibility criteria. Built with security and modularity in mind, it leverages the Venn Protocol for transaction firewall protection.
 
@@ -49,9 +51,16 @@ AirdropX is a flexible and secure framework for creating customizable token dist
 ## 2023 Projects
 
 ### ZKredentials - Decentralized, Trustless Anonymous Verification Powered by ZK-SNARKS  (ETHGlobal Tokyo 2023)
-### 🥇 Gnosis Chain — Best Use 🏆 Push — Most Innovative 🧑‍⚖️ Worldcoin — Best Governance App 🥷 Taiko — 🥈 ZK Zone 🏊‍♂️ Polygon — Pool Prize 🏊 The Graph — Pool Prize 📜 Scroll — Just Deploy
+#### 🥇 Gnosis Chain — Best Use 
+#### 🏆 Push — Most Innovative 
+#### 🧑‍⚖️ Worldcoin — Best Governance App 
+#### 🥷 Taiko — 🥈 ZK Zone 
+#### 🏊‍♂️ Polygon — Pool Prize 
+#### 🏊 The Graph — Pool Prize 
+#### 📜 Scroll — Just Deploy
 ### Additional Awards
-### 🏆 DevX APAC Hackathon by Polygon Labs - Problem Statement Track Winner 🏆 The Hunt for X by ScalingX - Finalist
+#### 🏆 DevX APAC Hackathon by Polygon Labs - Problem Statement Track Winner 
+#### 🏆 The Hunt for X by ScalingX - Finalist
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110725797/235075170-27eca209-b400-471a-94d3-0b51f7e796e5.png" alt="ZKredentials" width="400"/>
 </p>
@@ -65,7 +74,8 @@ ZKredentials addresses this essential need by providing a secure and privacy-pre
 [Project Link](https://ethglobal.com/showcase/zkredentials-costv)
 
 ### Multinate - Cross-Chain Donation Aggregator  (ETHGlobal ScalingEthereum 2023)
-### 🏆 Hyperlane — Best use of Hyperlane Warp Routes 🏆 UMA & Across — Pool Prize
+#### 🏆 Hyperlane — Best use of Hyperlane Warp Routes 
+#### 🏆 UMA & Across — Pool Prize
 <p align="center">
   <img src="https://user-images.githubusercontent.com/110725797/229329124-49dcddff-8c19-4232-bdd5-e58bb618bc75.jpg" alt="Multinate" width="400"/>
 </p>
@@ -85,7 +95,7 @@ USDC Withdrawals: Charities can efficiently access the funds raised through our 
 [Project Link](https://ethglobal.com/showcase/multinate-kgqay)
 
 ### BluebirdSwap - On-chain Fractionalised NFT Options Trading  (ETHDenver #BUIDLathon 2023)
-### 🏆 The Graph — Best New Subgraph(s)
+#### 🏆 The Graph — Best New Subgraph(s)
 <p align="center">
   <img src="Logo.png" alt="BluebirdSwap" width="400"/>
 </p>
@@ -108,7 +118,9 @@ Autopass3 enables web3 payments for Autopass using Gnosis. Drivers can now easil
 ## 2022 Projects
 
 ### GAAVE - Charity Yield Farming (ETH Seoul 2022)
-### 🥇 Public Goods Track Winner 🏆 IPFS/Filecoin Sponsor Prize 🏆 The Graph Sponsor Prize
+#### 🥇 Public Goods Track Winner 
+#### 🏆 IPFS/Filecoin Sponsor Prize 
+#### 🏆 The Graph Sponsor Prize
 <p align="center">
   <img src="gaave-screenshot.png" alt="GAAVE" width="800"/>
 </p>
@@ -120,7 +132,9 @@ A platform where crypto users could deposit their cryptocurrencies to generate y
 https://github.com/GigaChadds
 
 ### PreshMail - Decentralized Chat App with Attention Monetization (ETHGlobal SanFrancisco 2022)
-### 🏆 Lens Protocol — Integration 🏆 XMTP — Runner Up 🏆 Push Protocol — Runner Up
+#### 🏆 Lens Protocol — Integration 
+#### 🏆 XMTP — Runner Up 
+#### 🏆 Push Protocol — Runner Up
 
 <p align="center">
   <img src="preshmail.jpg" alt="Preshmail" width="400"/>
@@ -139,4 +153,4 @@ https://ethglobal.com/showcase/preshmail-rnuzb
 
 ## Contact
 
-Feel free to reach out to me through [junmtan.eth@gmail.com](mailto:junmtan.eth@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tanjunmeng/).
+Feel free to reach out to me through [junmtan.eth@gmail.com](mailto:junmtan.eth@gmail.com).
