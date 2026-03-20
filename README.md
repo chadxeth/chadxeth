@@ -11,13 +11,14 @@
 ## Current Work
 
 **Senior Engineer @ [Ant International](https://www.antinternational.com/)** — Whale Platform  
-24/7 real-time cross-chain settlement infrastructure processing **$600B+/yr** on Hyperledger Besu.
+24/7 real-time cross-chain settlement infrastructure processing **$600B+/yr** on Hyperledger Besu. Founded the Singapore engineering practice as the first hire.
 
 - Owner of all smart contract repositories: stablecoin/tokenised deposit contracts, oracle modules, cross-chain swap contracts
 - Cross-chain bridge operations across Ethereum, Solana, Hyperledger Besu (Chainlink CCIP, Circle CCTP, Circle Gateway)
 - Production node operations: Hyperledger Besu validator + RPC nodes
 - Security audits with Certik, SlowMist, and Deloitte
-- **Author of [EIP-7963](https://github.com/ethereum/ERCs/pull/1062)** — Oracle-Permissioned ERC-20 with ZK-Verified ISO 20022 Payment Instructions
+- Developed Bettr Settlement Token — **[featured in Forbes](https://www.forbes.com/sites/zennonkapron/2025/12/13/inside-ant-internationals-treasury-platform-how-whale-bettr-and-ai-are-rewiring-global-liquidity/)**
+- **Author of Draft [EIP-7963](https://github.com/ethereum/ERCs/pull/1062)** *(under review)* — Oracle-Permissioned ERC-20 with ZK-Verified ISO 20022 Payment Instructions
 
 ---
 
@@ -25,8 +26,8 @@
 
 | Event | Project | Prizes |
 |---|---|---|
-| ETHGlobal Singapore 2024 | [Trend](https://ethglobal.com/showcase/trend-p3r89) | 🥇 Sign Protocol Best Overall + Most Creative Schema |
-| ETHGlobal Tokyo 2023 | [ZKredentials](https://ethglobal.com/showcase/zkredentials-costv) | 🥇 Gnosis Chain 1st · Push Protocol Most Innovative · Worldcoin Best Governance · Taiko 2nd |
+| ETHGlobal Singapore 2024 | [Trend](https://ethglobal.com/showcase/trend-p3r89) | 🥇 Sign Protocol **Best Overall** *(best project across all tracks)* + Most Creative Schema |
+| ETHGlobal Tokyo 2023 | [ZKredentials](https://ethglobal.com/showcase/zkredentials-costv) | **4 prizes at one event:** Gnosis Chain 1st · Push Protocol 1st · Worldcoin Best Governance · Taiko 2nd |
 | ETHGlobal ScalingEthereum 2023 | [Multinate](https://ethglobal.com/showcase/multinate-kgqay) | 🏆 Hyperlane Best Use of Warp Routes |
 | ETH Seoul 2022 | [GAAVE](https://devfolio.co/projects/gaave-6df3) | 🥇 Public Goods Track Winner |
 | ETHGlobal San Francisco 2022 | [PreshMail](https://ethglobal.com/showcase/preshmail-rnuzb) | 🏆 XMTP Runner-Up · Push Protocol Runner-Up |
