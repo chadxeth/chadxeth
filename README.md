@@ -1,28 +1,45 @@
 <h1 align="center">Jun Meng Tan</h1>
 
 <p align="center">
-  Blockchain & Distributed Systems Engineer · Singapore<br/>
-  Cross-chain protocols · Oracle systems · Smart contract security<br/>
-  <a href="mailto:junmtan.eth@gmail.com">junmtan.eth@gmail.com</a> · <a href="https://twitter.com/chadxeth">@chadxeth</a>
+  AI Agent & Distributed Systems Engineer · Singapore<br/>
+  Multi-agent systems · Context engineering · Cross-chain protocols<br/>
+  <a href="https://junmtan.dev">junmtan.dev</a> · <a href="mailto:junmtan.eth@gmail.com">junmtan.eth@gmail.com</a> · <a href="https://twitter.com/chadxeth">@chadxeth</a>
 </p>
 
 ---
 
 ## Current Work
 
-**Senior Engineer @ [Ant International](https://www.antinternational.com/)** — Whale Platform  
-24/7 real-time cross-chain settlement infrastructure processing **$600B+/yr** on Hyperledger Besu. Founded the Singapore engineering practice as the first hire.
+**Senior Engineer @ [Ant International](https://www.antinternational.com/)** — Whale Platform
+24/7 real-time cross-chain settlement infrastructure processing **$600B+/yr** on Hyperledger Besu. Founded the Singapore engineering practice as the first hire; team has grown 3x to 30+.
 
-- Owner of all smart contract repositories: stablecoin/tokenised deposit contracts, oracle modules, cross-chain swap contracts
-- Cross-chain bridge operations across Ethereum, Solana, Hyperledger Besu (Chainlink CCIP, Circle CCTP, Circle Gateway)
-- Production node operations: Hyperledger Besu validator + RPC nodes
-- Security audits with Certik, SlowMist, and Deloitte
-- Developed Bettr Settlement Token — **[featured in Forbes](https://www.forbes.com/sites/zennonkapron/2025/12/13/inside-ant-internationals-treasury-platform-how-whale-bettr-and-ai-are-rewiring-global-liquidity/)**
-- **Author of Draft [EIP-7963](https://github.com/ethereum/ERCs/pull/1062)** *(under review)* — Oracle-Permissioned ERC-20 with ZK-Verified ISO 20022 Payment Instructions
+### AI Agent Lead — On-Duty Alarm Debugging Agent
+- **4-agent runtime architecture** (Supervisor, Application, Blockchain, Database) using ReAct reasoning across **18 purpose-built tools**, routing alarms by failure domain
+- **Dual-layer memory** — short-term session memory + long-term semantic memory that learns from resolved incidents, enabling pattern recognition across historical alarms within bounded LLM context
+- **Hybrid RAG investigation** — ZSearch vector store with multi-recall, deduplication, and reranking for contextual playbooks per alarm type
+- **Evaluation framework** — tracking classification accuracy, mean time to root cause, false positive rate, resolution quality; weekly automated regression vs historical baselines
+- **Verification-first design** — autonomous read-only investigation, sandboxed action paths, human-in-the-loop confirmation for state-changing operations
+- Championed **Claude Code** adoption across 30+ engineers; compressed Bettr Settlement Token contract delivery from 22d → 4d
+
+### Production Systems
+- Owner of all **4 smart contract repositories** — led security audits with Certik, SlowMist, Deloitte
+- Cross-chain bridge operations (Chainlink CCIP, Circle CCTP, Circle Gateway) across Ethereum, Solana, Hyperledger Besu
+- Production Hyperledger Besu validator + RPC nodes
+- Developed **Bettr Settlement Token** — **[featured in Forbes](https://www.forbes.com/sites/zennonkapron/2025/12/13/inside-ant-internationals-treasury-platform-how-whale-bettr-and-ai-are-rewiring-global-liquidity/)**
+- Cross-Geo Technical Liaison — daily Mandarin technical syncs with engineering teams in China
+- Author of Draft **[EIP-7963](https://github.com/ethereum/ERCs/pull/1062)** *(under review)* — Oracle-Permissioned ERC-20 with ZK-Verified ISO 20022 Payment Instructions
 
 ---
 
-## ETH Hackathons — 20+ prizes across 7 events
+## Hackathons — 20+ prizes across 8 events
+
+### AI Hackathons
+
+| Event | Project | Highlights |
+|---|---|---|
+| Bolt.new Hackathon Jul 2025 | [Chrona AI](https://devpost.com/software/chrona-ai) | 5-agent system on **OpenAI Agents SDK** — conversational workflow automation with real-time agent streaming |
+
+### ETH Hackathons
 
 | Event | Project | Prizes |
 |---|---|---|
@@ -40,10 +57,16 @@
 
 ## Skills
 
+**AI & Agents:** OpenAI Agents SDK · LangGraph · SOFA AI (AgentClient, AMem, RetrieveEngine) · multi-agent orchestration · context engineering · RAG pipelines · evaluation frameworks · MCP server design · ReAct reasoning · prompt engineering · sandboxed execution environments · Claude Code · Cursor
+
 **Blockchain:** Solidity · Rust (Solana/Anchor) · Hyperledger Besu · Hardhat · Foundry · Ethers.js · viem · The Graph · OpenZeppelin · Chainlink CCIP · Circle CCTP
 
-**Backend:** Go · Java (Spring/SOFABoot) · TypeScript · Python · Node.js
+**Backend & Languages:** TypeScript · Python · Bash · Java (Spring/SOFABoot) · Go · Node.js · Express
 
-**DevOps:** AWS · Kubernetes · Terraform · Docker · Prometheus · Grafana
+**Data & Infra:** PostgreSQL · MySQL · OceanBase · Redis · ZSearch (vector store) · Docker · Kubernetes · AWS · Alibaba Cloud · Jenkins · Prometheus · Grafana
 
-**AI & Agents:** Multi-agent systems · RAG · OpenAI Agents SDK · LangGraph · MCP tooling
+---
+
+<p align="center">
+  <a href="https://junmtan.dev"><strong>Portfolio →</strong></a>
+</p>
